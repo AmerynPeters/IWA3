@@ -1,4 +1,7 @@
 // johannes.js
+export const privateFirstName = "Alex";
+export const privateSurname = "Naidoo";
+export const publicRole = "Head of Marketing";
 
 private firstname = "Johannes"
 private surname = "Potgieter"
