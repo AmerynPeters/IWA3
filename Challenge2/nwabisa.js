@@ -5,4 +5,4 @@ const privateSurname = "Gabe"
 const publicRole = "CEO"
 
 const privateDisplay = privateFirstName + " " + privateSurname + " " + publicRole;
-document.querySelector('#nwabisa').innerText = display
+document.querySelector('#nwabisa').innerText = display;

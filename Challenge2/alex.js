@@ -7,4 +7,4 @@ const publicRole = "Head of Marketing";
 // public role = "Head of Marketing"
 
 const privateDisplay = privateFirstName + " " + privateSurname + " " + publicRole;
-document.querySelector('#alex').innerText = display
+document.querySelector('#alex').innerText = display;
