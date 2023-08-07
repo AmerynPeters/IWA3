@@ -1,5 +1,7 @@
 // scripts.js
 
+import './config.js'
+
 import company form 'configuration'
 import year form 'configuration'
 
