@@ -1,3 +1,5 @@
 // scripts.js
-import './alex.js, ./johannes.js, ./nwabisa.js,';
+import "./alex.js";
+import "./johannes.js";
+import "./nwabisa.js";
 console.log("Roles:", nwabisa.role, johanes.role, alex.role);
