@@ -1,7 +1,7 @@
 // nwabisa.js
-const privateFirstName = "Nwabisa";
-const privateSurname = "Gabe";
-const publicRole = "CEO";
+export const privateFirstName = "Nwabisa";
+export const privateSurname = "Gabe";
+export const publicRole = "CEO";
 
 const privateDisplay =
     privateFirstName + " " + privateSurname + " " + publicRole;

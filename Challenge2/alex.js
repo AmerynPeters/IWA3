@@ -1,7 +1,7 @@
 // alex.js
-const privateFirstName = "Alex";
-const privateSurname = "Naidoo";
-const publicRole = "Head of Marketing";
+export const privateFirstName = "Alex";
+export const privateSurname = "Naidoo";
+export const publicRole = "Head of Marketing";
 
 const privateDisplay =
     privateFirstName + " " + privateSurname + " " + publicRole;
